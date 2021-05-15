@@ -21,13 +21,17 @@ Using the Prestained Mobilenet V2 model and OpenCV we detect human images wearin
 <br>
 
 In this tough time due to pandemic, we need to wear masks so this is a project to detect masks on human faces. This project will not return any results when you give only a mask image without a human face. 
-
 <br>
 
 ### Built With
 
 - OpenCV
 - Keras
+
+### For Execution
+
+Open Colab or download the file and resorces into a folder and change image of your choice in the last cell i.e image reading 
+<br>
 
 ---
 
